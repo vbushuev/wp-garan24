@@ -1,0 +1,16 @@
+/**
+ * Theme Name: Garan24-Shop (base on Azera-shop)
+ * Template: azera-shop
+ */
+@import url('../azera-shop/style.css');
+.woocommerce ul.products li.product h3, .woocommerce .products .product h3 {
+    display: inline-block;
+	height: 2.2em;
+	vertical-align:middle;
+	margin-bottom:1em;
+	font-size:.8em;
+}
+
+li.product-category {
+	display: inline-block;
+}
